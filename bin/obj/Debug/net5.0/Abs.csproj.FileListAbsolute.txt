@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\obj\Debug\net5.0\Abs.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\obj\Debug\net5.0\Abs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\obj\Debug\net5.0\Abs.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\obj\Debug\net5.0\Abs.AssemblyInfo.cs
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\obj\Debug\net5.0\Abs.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\bin\Debug\net5.0\Abs.exe
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\bin\Debug\net5.0\Abs.deps.json
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\bin\Debug\net5.0\Abs.runtimeconfig.json
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\bin\Debug\net5.0\Abs.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\bin\Debug\net5.0\Abs.dll
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\bin\Debug\net5.0\ref\Abs.dll
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\bin\Debug\net5.0\Abs.pdb
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\obj\Debug\net5.0\Abs.dll
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\obj\Debug\net5.0\ref\Abs.dll
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\obj\Debug\net5.0\Abs.pdb
+C:\Users\DELL\Desktop\project 1\Abstraction assignment\Abs\obj\Debug\net5.0\Abs.genruntimeconfig.cache
